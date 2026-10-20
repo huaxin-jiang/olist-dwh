@@ -1,0 +1,17 @@
+data/
+data/import/
+
+.env
+*.env
+*.pem
+
+__pycache__/
+*.pyc
+
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+*.log
+*.out
